@@ -1,0 +1,1 @@
+go build -mod=vendor -o server ./cmd/server/server.go 

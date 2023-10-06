@@ -1,0 +1,1 @@
+go build -mod=vendor -o client ./cmd/client/client.go 
